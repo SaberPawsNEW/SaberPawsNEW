@@ -31,11 +31,7 @@ add it here future me
 
 ## games n stuff using my stats
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+![statman](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/f3fe0597c9d0154c745f85131c499a53aa69b25c/pacman-contribution-graph-dark.svg)
 
 ## On GitHub
 
