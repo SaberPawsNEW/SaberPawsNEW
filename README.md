@@ -27,7 +27,7 @@
 I mostly vibecode in **C**, and I know the basics of **HTML5**.
 ## Even more stats stuff
 more than a snake:
-add it here future me
+![3d rainbow stats](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/f4ddc112cc3787d863ff827e618a4cf8bf54fffe/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## games n stuff using my stats
 
