@@ -4,10 +4,9 @@
   <p><strong>mostly vibecoding.</strong></p>
 
 <p align="center">
-  <a href="https://github.com/SaberPawsNEW?tab=overview">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github_dark" />
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github" alt="SaberPawsNEW's GitHub activity statistics" width="340" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://[github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github_dark](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/9eef2887976cf8abd96042241a40c7da66a3be64/github-contribution-grid-snake-dark.svg)" />
+      <img src="[https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/9eef2887976cf8abd96042241a40c7da66a3be64/github-contribution-grid-snake-dark.svg)" alt="snake that eats my stats" width="340" />
     </picture>
   </a>
 </p>
