@@ -3,7 +3,15 @@
   <h1>Catten Type Guy</h1>
   <p><strong>mostly vibecoding.</strong></p>
 
-put the snark here.
+<p align="center">
+  <a href="https://github.com/SaberPawsNEW?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github" alt="SaberPawsNEW's GitHub activity statistics" width="340" />
+    </picture>
+  </a>
+</p>
+
 
   <p>
     <img src="https://img.shields.io/badge/C-mostly%20vibecoding-58A6FF?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;labelColor=161B22" alt="C: mostly vibecoding" />
