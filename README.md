@@ -11,7 +11,6 @@
   </picture>
 </p>
 
-
   <p>
     <img src="https://img.shields.io/badge/C-mostly%20vibecoding-58A6FF?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;labelColor=161B22" alt="C: mostly vibecoding" />
     <img src="https://img.shields.io/badge/HTML5-basics-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=161B22" alt="HTML5: basics" />
