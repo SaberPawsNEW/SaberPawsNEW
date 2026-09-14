@@ -32,6 +32,7 @@ add it here future me
 ## games n stuff using my stats
 
 ![statman](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/f3fe0597c9d0154c745f85131c499a53aa69b25c/pacman-contribution-graph-dark.svg)
+![atari stat breakout](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/e4c0b323dda025eace91e2429a7c834013085758/breakout-contribution-graph-dark.svg)
 
 ## On GitHub
 
