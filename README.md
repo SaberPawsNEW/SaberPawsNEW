@@ -22,7 +22,9 @@
 ## The short version
 
 I mostly vibecode in **C**, and I know the basics of **HTML5**.
-
+## Even more stats stuff
+more than a snake:
+add it here future me
 ## On GitHub
 
 <p align="center">
