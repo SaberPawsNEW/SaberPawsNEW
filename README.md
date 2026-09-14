@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
+  <p><samp>hello, world</samp></p>
+  <h1>SaberPaws</h1>
+  <p><strong>mostly vibecoding.</strong></p>
 
-<!--
-**SaberPawsNEW/SaberPawsNEW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <p>
+    <img src="https://img.shields.io/badge/C-mostly%20vibecoding-58A6FF?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;labelColor=161B22" alt="C: mostly vibecoding" />
+    <img src="https://img.shields.io/badge/HTML5-basics-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white&amp;labelColor=161B22" alt="HTML5: basics" />
+  </p>
 
-Here are some ideas to get you started:
+  <p>
+    <a href="https://github.com/SaberPawsNEW?tab=repositories">repositories</a>
+    &middot;
+    <a href="https://github.com/SaberPawsNEW?tab=overview">activity</a>
+  </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## The short version
+
+I mostly vibecode in **C**, and I know the basics of **HTML5**.
+
+## On GitHub
+
+<p align="center">
+  <a href="https://github.com/SaberPawsNEW?tab=overview">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaberPawsNEW&amp;theme=github" alt="SaberPawsNEW's GitHub activity statistics" width="340" />
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Live GitHub stats, not a skill rating.</sub>
+</p>
+
+---
+
+<p align="center"><samp>thanks for stopping by.</samp></p>
