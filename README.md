@@ -1,6 +1,6 @@
 <div align="center">
   <p><samp>hello, world</samp></p>
-  <h1>SaberPaws</h1>
+  <h1>Catten Type Guy</h1>
   <p><strong>mostly vibecoding.</strong></p>
 
   <p>
