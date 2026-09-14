@@ -7,9 +7,7 @@
     github_user_name: SaberPawsNEW
     # github token used to fetch the contribution calendar. Default to the action token if empty.
     github_token: # optional, default is ${{ github.token }}
-    # list of files to generate.
  supported query string options:
-
 - palette: github-dark
 - color_snake: purple
 - color_dots: Coma separated list of dots color.
