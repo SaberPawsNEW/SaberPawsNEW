@@ -3,7 +3,7 @@
   <h1>Catten Type Guy</h1>
   <p><strong>mostly vibecoding.</strong></p>
 
-![snake that eats my stats]([[https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/9eef2887976cf8abd96042241a40c7da66a3be64/github-contribution-grid-snake-dark.svg]
+![snake that eats my stats](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/9eef2887976cf8abd96042241a40c7da66a3be64/github-contribution-grid-snake-dark.svg]
 
   <p>
     <img src="https://img.shields.io/badge/C-mostly%20vibecoding-58A6FF?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;labelColor=161B22" alt="C: mostly vibecoding" />
