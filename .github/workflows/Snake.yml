@@ -1,22 +1,45 @@
-- name: generate-snake-game-from-github-contribution-grid
-  # You may pin to the exact commit or the version.
-  # uses: Platane/snk@d8f6715049803e982ee5ff501b6b9b7d5deeb09b
-  uses: Platane/snk@v3.5.0
-  with:
-    # github user name
-    github_user_name: SaberPawsNEW
-    # github token used to fetch the contribution calendar. Default to the action token if empty.
-    github_token: ${{ github.token }}
- supported query string options:
-- palette: github-dark
-- color_snake: purple
-- color_dots: Coma separated list of dots color.
-                The first one is 0 contribution, then it goes from the low contribution to the highest.
-                Exactly 5 colors are expected.
-example:
-  outputs: |
-    dark.svg?palette=github-dark&color_snake=blue
-    light.svg?color_snake=#7845ab
-    ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+name: Generate Snake
 
-    outputs: # optional
+on:
+  # Run automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows you to manually run the job at any time from the Actions tab
+  workflow_dispatch:
+  
+  # Also runs whenever you push a change to the main branch
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # 1. Check out your repository code
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      # 2. Generates the snake game animations using your settings
+      - name: Generate GitHub Contribution Grid Snake
+        uses: Platane/snk@v3.5.0
+        with:
+          github_user_name: SaberPawsNEW
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=purple
+
+      # 3. Pushes the files in the 'dist' folder to a clean 'output' branch
+      - name: Push Snake SVGs to Output Branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
