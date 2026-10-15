@@ -3,7 +3,7 @@
   <h1>Catten Type Guy</h1>
   <p><strong>mostly vibecoding.</strong></p>
 
-![snake that eats my stats](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/9eef2887976cf8abd96042241a40c7da66a3be64/github-contribution-grid-snake-dark.svg)
+![snake that eats my stats](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/github-contribution-grid-snake-dark.svg)
 
   <p>
     <img src="https://img.shields.io/badge/C-mostly%20vibecoding-58A6FF?style=for-the-badge&amp;logo=c&amp;logoColor=white&amp;labelColor=161B22" alt="C: mostly vibecoding" />
@@ -27,12 +27,12 @@
 I mostly vibecode in **C**, and I know the basics of **HTML5**.
 ## Even more stats stuff
 more than a snake:
-![3d rainbow stats](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/f4ddc112cc3787d863ff827e618a4cf8bf54fffe/profile-3d-contrib/profile-night-rainbow.svg)
+![Profile Night Rainbow](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ## games n stuff using my stats
 
-![statman](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/f3fe0597c9d0154c745f85131c499a53aa69b25c/pacman-contribution-graph-dark.svg)
-![atari stat breakout](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/e4c0b323dda025eace91e2429a7c834013085758/breakout-contribution-graph-dark.svg)
+![statman](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/pacman-contribution-graph-dark.svg)
+![atari stat breakout](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/breakout-contribution-graph-dark.svg)
 
 ## On GitHub
 
