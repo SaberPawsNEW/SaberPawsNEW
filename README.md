@@ -32,7 +32,7 @@ more than a snake:
 ## games n stuff using my stats
 
 ![statman](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/c7e3ff5b395558f2ecd14e37d47a4b042c05f166/pacman-contribution-graph-dark.svg)
-![atari stat breakout](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/breakout-contribution-graph-dark.svg)
+![atari stat breakout](https://raw.githubusercontent.com/SaberPawsNEW/SaberPawsNEW/610648e588c080cbdd550715017e36ad1709ebd5/breakout-contribution-graph-dark.svg)
 
 ## On GitHub
 
